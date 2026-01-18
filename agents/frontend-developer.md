@@ -4,6 +4,7 @@ name: Frontend Developer Agent
 version: 0.2
 last_updated: 2026-01-12
 language: zh-CN
+template: meta-info/meta_agent.md
 ---
 # Frontend Developer Agent
 
