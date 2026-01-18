@@ -119,7 +119,7 @@ template: meta-info/meta_agent.md
 - Android Profiler/Firebase
 
 **跨平台**：
-- React Native/Flutter（按项目）
+- React Native
 
 **质量**：
 - Crashlytics/Sentry
